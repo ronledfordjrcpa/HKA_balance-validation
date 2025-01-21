@@ -1,0 +1,9 @@
+@echo off
+REM Copy required files to the working directory
+copy path\to\source\dynamics_gp.xlsx .\dynamics_gp.xlsx
+copy path\to\source\sage_intacct.xlsx .\sage_intacct.xlsx
+copy path\to\source\mapping_file.xlsx .\mapping_file.xlsx
+
+REM Run the Python script
+python balance_validation.py
+pause
