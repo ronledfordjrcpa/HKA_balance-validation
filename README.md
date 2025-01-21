@@ -1,6 +1,3 @@
-# HKA_balance-validation
- A Python script for validating balances between Dynamics GP and Sage Intacct.
-
 ### Installation Instructions
 
 1. Install Python: Ensure Python is installed on your system. Download from [python.org](https://www.python.org/downloads/).
@@ -23,4 +20,5 @@ python balance_validation.py
 3. Run the script by opening Command Prompt, navigating to the script's directory, and executing:
    ```bash
    run_validation.bat
+
 
