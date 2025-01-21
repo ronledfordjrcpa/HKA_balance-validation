@@ -8,8 +8,6 @@
 ```bash
 pip install pandas openpyxl
 
-
-
 ### How to Use the Script
 
 1. Place your Dynamics GP, Sage Intacct, and Mapping Excel files in the specified paths.
@@ -18,4 +16,11 @@ pip install pandas openpyxl
 ```bash
 python balance_validation.py
 
+## How to Use the Script
+
+1. Place your Dynamics GP, Sage Intacct, and Mapping Excel files in the specified paths.
+2. Update the file paths in `balance_validation.py` and `run_validation.bat` accordingly.
+3. Run the script by opening Command Prompt, navigating to the script's directory, and executing:
+   ```bash
+   run_validation.bat
 
