@@ -1,4 +1,3 @@
-markdown
 # Balance Validation Script
 
 ## Overview
