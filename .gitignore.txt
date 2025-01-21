@@ -1,0 +1,31 @@
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Environment variables
+.env
+
+# VSCode settings
+.vscode/
+*.code-workspace
+
+# macOS files
+.DS_Store
+
+# Windows thumbnail cache files
+Thumbs.db
+
+# Compiled files
+*.o
+*.pyc
+*.so
+
+# Excel files (if you do not want to include the source files)
+*.xlsx
+
+# Logs
+*.log
