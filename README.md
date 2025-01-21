@@ -8,6 +8,7 @@
 ```bash
 pip install pandas openpyxl
 
+
 ### How to Use the Script
 
 1. Place your Dynamics GP, Sage Intacct, and Mapping Excel files in the specified paths.
