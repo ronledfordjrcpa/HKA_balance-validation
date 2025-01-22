@@ -1,56 +1,67 @@
-# Balance Validation Script
+# Balance Validation Tool
 
-## Overview
-This repository contains a Python script for validating balances between Dynamics GP (source) and Sage Intacct (target). The script maps GL accounts, compares balances, and generates a report of any discrepancies.
+A tool for validating account balances and transactions in financial systems.
 
-## Installation Instructions
+## Company Values
+For our mission and company values, please see our [Mission Statement](MISSION.md).
 
-1. **Install Python**
-   Ensure Python is installed on your system. Download it from [python.org](https://www.python.org/downloads/).
+## Features
 
-2. **Install Required Libraries**
-   Open Command Prompt and run the following command to install the necessary libraries:
-   ```bash
-   pip install pandas openpyxl
-3. Create the run_validation.bat File Open a text editor and create a new file named run_validation.bat. Add the following commands:
+- Automated balance verification
+- Transaction history analysis
+- Error detection and reporting
+- Support for multiple account types
 
-batch
-@echo off
-REM Copy required files to the working directory
-copy path\to\source\dynamics_gp.xlsx .\dynamics_gp.xlsx
-copy path\to\source\sage_intacct.xlsx .\sage_intacct.xlsx
-copy path\to\source\mapping_file.xlsx .\mapping_file.xlsx
+## Prerequisites
 
-REM Run the Python script
-python balance_validation.py
-pause
-4. Place Your Files Place your Dynamics GP, Sage Intacct, and Mapping Excel files in the specified paths. Update the file paths in balance_validation.py and run_validation.bat accordingly.
+- Node.js (v14 or higher)
+- npm or yarn package manager
 
-How to Use the Script
-1. Place your Dynamics GP, Sage Intacct, and Mapping Excel files in the specified paths.
+## Installation
 
-2. Update the file paths in balance_validation.py and run_validation.bat accordingly.
+1. Clone the repository:
+```bash
+git clone https://github.com/yourusername/HKA_balance-validation.git
+cd HKA_balance-validation
+```
 
-3. Run the script by opening Command Prompt, navigating to the script's directory, and executing:
+2. Install dependencies:
+```bash
+npm install
+```
 
-bash
-run_validation.bat
-4. The output report (balance_validation_report.xlsx) will be generated in the script’s directory.
+## Usage
 
-Folder Structure
-Your project directory should look like this:
+1. Configure your settings in `config.json`:
+```json
+{
+    "accountPath": "./accounts",
+    "outputPath": "./reports"
+}
+```
 
-balance_validation/
-├── balance_validation.py
-├── README.md
-├── run_validation.bat
-├── dynamics_gp.xlsx
-├── sage_intacct.xlsx
-├── mapping_file.xlsx
-└── .gitignore
-Contributing
-Feel free to fork this repository and submit pull requests. If you encounter any issues, please report them via the issue tracker.
+2. Run the validation:
+```bash
+npm start
+```
 
-License
-This project is licensed under the MIT License - see the LICENSE file for details.
+## Documentation
+
+For detailed documentation, please refer to the [Wiki](link-to-wiki).
+
+## Contributing
+
+1. Fork the repository
+2. Create your feature branch (`git checkout -b feature/amazing-feature`)
+3. Commit your changes (`git commit -m 'Add some amazing feature'`)
+4. Push to the branch (`git push origin feature/amazing-feature`)
+5. Open a Pull Request
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## Support
+
+For support, please open an issue in the GitHub repository.
 

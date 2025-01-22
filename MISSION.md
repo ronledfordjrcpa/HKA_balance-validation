@@ -1,0 +1,44 @@
+
+# Value Statement as HKA’s CEO
+
+"Our priority is to successfully migrate financial operations from Dynamics GP to Sage Intacct, establishing Sage Intacct as the financial reporting backbone for HKA. This project ensures accurate and timely reporting while seamlessly integrating with TempWorks for staffing and payroll operations. By focusing on streamlined accounts payable processes and robust financial reporting, we aim to empower leadership with reliable data for informed decision-making and strategic growth."
+
+## Key Deliverables
+- 1. Accurate Migration and Validation
+•	Accurate Migration and Validation
+•	Migrate trial balances and historical data from Dynamics GP to Sage Intacct with complete accuracy.
+•	Validate data at detailed levels (by account, department, and class) to ensure alignment with historical financial records.
+•	To confirm data integrity, compare key reports between Dynamics GP and Sage Intacct side-by-side.
+
+- 2. Optimized Financial Reporting Backbone
+•	Configure Sage Intacct’s General Ledger and reporting tools to serve as the centralized system for financial reporting.
+•	Align the Chart of Accounts and dimensions with HKA’s operational and reporting requirements.
+•	Design customized financial reports and dashboards to provide actionable insights for leadership.
+
+- 3. Streamlined Accounts Payable (AP) Operations
+•	Set up Sage Intacct to efficiently handle all accounts payable processes, ensuring compliance with internal controls.
+•	Automate invoice processing and payment workflows to reduce manual effort and improve accuracy.
+•	Integrate AP data into the financial reporting structure for comprehensive visibility.
+
+- 4. Integration with TempWorks (ATS)
+•	Validate and test the integration between TempWorks and Sage Intacct to ensure accurate data flow for payroll and staffing-related financials.
+•	Resolve any data mapping or synchronization issues that may arise during the integration process.
+•	Establish a reliable workflow for ongoing data imports and updates from TempWorks.
+
+- 5. Post-Implementation Sustainability
+•	Document system configurations, processes, and workflows for future reference and optimization.
+•	Provide training to key staff on Sage Intacct’s AP and financial reporting functions to ensure adoption and effective use.
+•	Create a roadmap for future enhancements, such as additional module adoption or reporting expansions.
+
+## Underlying Goals
+•	Accuracy: Ensure the financial data in Sage Intacct reflects the company’s historical and current operations without discrepancies.
+•	Efficiency: Streamline AP processes and minimize manual interventions.
+•	Integration: Establish seamless data flow between TempWorks and Sage Intacct for consistent and reliable reporting.
+•	Scalability: Build a robust financial reporting backbone that supports growth and aligns with HKA’s operational strategy.
+•	Empowerment: Provide leadership with the tools and insights needed for strategic decision-making.
+
+
+## Leadership Message
+Leadership Empowerment: Ensure the financial data and reports are accessible, accurate, and actionable for strategic decision-making.
+Scalability: Build a system foundation that supports future growth, including multi-entity operations or additional integrations.
+Efficiency and Accountability: Reduce reliance on manual processes, eliminate off-system data management, and enhance accountability across financial operations.
