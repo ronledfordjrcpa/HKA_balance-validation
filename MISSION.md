@@ -36,6 +36,6 @@
 - Empowerment: Provide leadership with the tools and insights needed for strategic decision-making.
 
 ## Leadership Message
-Leadership Empowerment: Ensure the financial data and reports are accessible, accurate, and actionable for strategic decision-making.
-Scalability: Build a system foundation that supports future growth, including multi-entity operations or additional integrations.
-Efficiency and Accountability: Reduce reliance on manual processes, eliminate off-system data management, and enhance accountability across financial operations.
+- Leadership Empowerment: Ensure the financial data and reports are accessible, accurate, and actionable for strategic decision-making.
+- Scalability: Build a system foundation that supports future growth, including multi-entity operations or additional integrations.
+- Efficiency and Accountability: Reduce reliance on manual processes, eliminate off-system data management, and enhance accountability across financial operations.
