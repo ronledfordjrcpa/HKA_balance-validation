@@ -36,6 +36,4 @@
 - Empowerment: Provide leadership with the tools and insights needed for strategic decision-making.
 
 ## Leadership Message
-- Leadership Empowerment: Ensure the financial data and reports are accessible, accurate, and actionable for strategic decision-making.
-- Scalability: Build a system foundation that supports future growth, including multi-entity operations or additional integrations.
-- Efficiency and Accountability: Reduce reliance on manual processes, eliminate off-system data management, and enhance accountability across financial operations.
+This project is a pivotal step in aligning HKA’s financial operations with its long-term growth objectives. By transitioning to Sage Intacct and integrating with TempWorks, we aim to enhance transparency, ensure compliance, and establish a reliable financial reporting backbone. Sage Intacct will empower our leadership team with actionable insights and a streamlined financial structure, allowing us to focus on strategic initiatives and sustained growth. With a focus on accurate data migration, optimized reporting, and seamless integration, this project positions HKA for success now and in the future.
