@@ -66,7 +66,7 @@ By considering these alternatives, we can address the project's needs while resp
 
 # Subject: Follow-Up on Sage Intacct Migration Role
 
-Dear Matt and Raji,
+Dear Raji,
 
 Thank you both for taking the time to speak with me about the Sage Intacct migration project. I truly appreciated the insights shared, particularly regarding the challenges surrounding the validation of trial balances and the General Ledger setup.
 
