@@ -4,29 +4,29 @@
 
 ## Key Deliverables
 1. Accurate Migration and Validation
-- Migrate trial balances and historical data from Dynamics GP to Sage Intacct with complete accuracy.
-- Validate data at detailed levels (by account, department, and class) to ensure alignment with historical financial records.
-- To confirm data integrity, compare key reports between Dynamics GP and Sage Intacct side-by-side.
+    - Migrate trial balances and historical data from Dynamics GP to Sage Intacct with complete accuracy.
+    - Validate data at detailed levels (by account, department, and class) to ensure alignment with historical financial records.
+    - To confirm data integrity, compare key reports between Dynamics GP and Sage Intacct side-by-side.
 
 2. Optimized Financial Reporting Backbone
-- Configure Sage Intacct's General Ledger and reporting tools to serve as the centralized system for financial reporting.
-- Align the Chart of Accounts and dimensions with HKA's operational and reporting requirements.
-- Design customized financial reports and dashboards to provide actionable insights for leadership.
+    - Configure Sage Intacct's General Ledger and reporting tools to serve as the centralized system for financial reporting.
+    - Align the Chart of Accounts and dimensions with HKA's operational and reporting requirements.
+    - Design customized financial reports and dashboards to provide actionable insights for leadership.
 
 3. Streamlined Accounts Payable (AP) Operations
-- Set up Sage Intacct to efficiently handle all accounts payable processes, ensuring compliance with internal controls.
-- Automate invoice processing and payment workflows to reduce manual effort and improve accuracy.
-- Integrate AP data into the financial reporting structure for comprehensive visibility.
+    - Set up Sage Intacct to efficiently handle all accounts payable processes, ensuring compliance with internal controls.
+    - Automate invoice processing and payment workflows to reduce manual effort and improve accuracy.
+    - Integrate AP data into the financial reporting structure for comprehensive visibility.
 
 4. Integration with TempWorks (ATS)
-- Validate and test the integration between TempWorks and Sage Intacct to ensure accurate data flow for payroll and staffing-related financials.
-- Resolve any data mapping or synchronization issues that may arise during the integration process.
-- Establish a reliable workflow for ongoing data imports and updates from TempWorks.
+    - Validate and test the integration between TempWorks and Sage Intacct to ensure accurate data flow for payroll and staffing-related financials.
+    - Resolve any data mapping or synchronization issues that may arise during the integration process.
+    - Establish a reliable workflow for ongoing data imports and updates from TempWorks.
 
 5. Post-Implementation Sustainability
-- Document system configurations, processes, and workflows for future reference and optimization.
-- Provide training to key staff on Sage Intacct's AP and financial reporting functions to ensure adoption and effective use.
-- Create a roadmap for future enhancements, such as additional module adoption or reporting expansions.
+    - Document system configurations, processes, and workflows for future reference and optimization.
+    - Provide training to key staff on Sage Intacct's AP and financial reporting functions to ensure adoption and effective use.
+    - Create a roadmap for future enhancements, such as additional module adoption or reporting expansions.
 
 ## Underlying Goals
 - Accuracy: Ensure the financial data in Sage Intacct reflects the company's historical and current operations without discrepancies.
